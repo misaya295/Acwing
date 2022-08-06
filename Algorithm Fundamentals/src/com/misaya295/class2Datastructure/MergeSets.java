@@ -1,4 +1,4 @@
-package com.misaya295.class2;
+package com.misaya295.class2Datastructure;
 
 import java.util.*;
 
